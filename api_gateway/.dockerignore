@@ -15,8 +15,5 @@ coverage.xml
 *,cover
 *.log
 .git*
-tests
-scripts
-postman
 ./postgres-data
 /venv
