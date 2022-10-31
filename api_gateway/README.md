@@ -10,7 +10,7 @@ REST - выполнен на базе fastapi, подключение к БД(Po
 - BAD_WORDS_SERVICE_URL= url для подключения к сервису "badlisted-words";
 - POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB - данные для создания пользователя и базы данных в контейнере с БД.
 
-2. Далее можно запустить
+2. Далее можно запустить из корневой директории
 ```shell
 docker-compose up -d
 ```
